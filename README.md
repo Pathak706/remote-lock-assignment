@@ -50,3 +50,9 @@ The goal of this challenge is to show familiarity with frontend development conc
 - Create a branch to push the commits of your solution
 - Create a Pull Request
 - When your Pull Request is ready for review, respond to our last email thread with the link to your Pull Request.
+
+## NOTE:
+
+I have created new json-server cz I am not able to start api server as you mentioned.
+
+so Please go to `/api` folder and run `npm i` then run `npm start`
