@@ -1,0 +1,24 @@
+.status {
+  margin-left: auto;
+  margin-top: 10px;
+  color: #fff !important;
+}
+.status-success {
+  background-color: green !important;
+}
+.status-danger {
+  background-color: #dc5555 !important;
+}
+.status-warning {
+  background-color: #e0b447ed !important;
+}
+h1 {
+  font-size: 18px;
+}
+p {
+  white-space: nowrap;
+}
+.p-avatar {
+  width: 4rem !important;
+  height: 3rem !important;
+}

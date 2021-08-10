@@ -1,0 +1,11 @@
+.tab-menu > ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+@media screen and (min-width: 1040px) {
+  .app {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+}

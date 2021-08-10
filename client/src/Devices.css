@@ -1,0 +1,41 @@
+.card {
+  margin: 1rem;
+}
+.p-card-content {
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+}
+.p-d-flex {
+  display: flex;
+  justify-content: space-between;
+  width: -webkit-fill-available;
+}
+.p-avatar {
+  width: 5rem !important;
+  height: 4rem !important;
+}
+.content {
+  margin-left: 1rem;
+  width: -webkit-fill-available;
+}
+
+h1,
+p {
+  margin: 0;
+}
+
+.switch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: -webkit-fill-available;
+}
+
+/* TODO: can be done using theme */
+.p-inputswitch.p-inputswitch-checked .p-inputswitch-slider {
+  background: #23c732 !important;
+}
+.p-inputswitch .p-inputswitch-slider {
+  background: #f44336 !important;
+}
